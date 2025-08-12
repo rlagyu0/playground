@@ -1,4 +1,4 @@
-package com.study.rxjava.lect1;
+package com.study.rxjava.BackPressureStrategy;
 
 import com.study.rxjava.util.LogType;
 import com.study.rxjava.util.Logger;
@@ -9,7 +9,7 @@ import io.reactivex.rxjava3.schedulers.Schedulers;
 
 import java.util.concurrent.TimeUnit;
 
-public class FlowableBackpressureBufferReactor {
+public class FlowableDropLatest {
     public static void main(String[] args) {
         System.out.println("# start : " + TimeUtil.getCurrentTimeFormatted());
         Flowable.interval(300L, TimeUnit.MILLISECONDS)

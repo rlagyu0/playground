@@ -1,4 +1,4 @@
-package com.study.rxjava.lect1;
+package com.study.rxjava.BackPressureStrategy;
 
 import com.study.rxjava.util.LogType;
 import com.study.rxjava.util.Logger;
@@ -8,7 +8,7 @@ import io.reactivex.rxjava3.schedulers.Schedulers;
 
 import java.util.concurrent.TimeUnit;
 
-public class FlowableReactor {
+public class FlowableBasic {
     public static void main(String[] args) {
         Flowable.interval(1, TimeUnit.MICROSECONDS)
                 .doOnNext(data -> Logger.log(LogType.DO_ON_NEXT, data))

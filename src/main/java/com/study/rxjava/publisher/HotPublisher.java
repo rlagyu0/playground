@@ -1,4 +1,4 @@
-package com.study.rxjava.chapter2;
+package com.study.rxjava.publisher;
 
 import io.reactivex.rxjava3.processors.PublishProcessor;
 

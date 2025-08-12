@@ -1,4 +1,4 @@
-package com.itvillage.utils;
+package com.study.rxjava.util;
 
 public class Logger {
     public static void log(String msg){
