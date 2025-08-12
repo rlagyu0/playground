@@ -1,4 +1,4 @@
-package com.study.rxjava.BackPressureStrategy;
+package com.study.rxjava.backpressureStrategy;
 
 import com.study.rxjava.util.LogType;
 import com.study.rxjava.util.Logger;
