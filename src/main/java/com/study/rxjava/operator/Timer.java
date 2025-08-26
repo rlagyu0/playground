@@ -1,4 +1,4 @@
-package com.study.rxjava.operator.flowable;
+package com.study.rxjava.operator;
 
 import com.study.rxjava.util.LogType;
 import com.study.rxjava.util.Logger;
