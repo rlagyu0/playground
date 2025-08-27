@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1a4d292-b081-4fc8-9de3-a299430baa5b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableCreateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableDrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableDropLatest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableDropOldest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/FlowableLatest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/backpressureStrategy/ObservableCreateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/completable/CompletableCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/filter/Distinct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/filter/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/filter/Take.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/filter/TakeUntil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/hello/ToDoSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/maybe/MaybeCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/maybe/MaybeJust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/Defer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/FromFuture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/FromIterable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/Interval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/Range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/operator/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/publisher/ColdPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/publisher/HotPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/single/SingleCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/single/SingleJust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/util/LogType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/util/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/rxjava/util/TimeUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="31SfxGyakU9eUHW14TdKCojMQuk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Work/playground",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CombineLatest.executor": "Run",
+    "애플리케이션.CompletableCreate.executor": "Run",
+    "애플리케이션.Concat.executor": "Run",
+    "애플리케이션.ConcatMap.executor": "Run",
+    "애플리케이션.Defer.executor": "Run",
+    "애플리케이션.Distinct.executor": "Run",
+    "애플리케이션.Filter.executor": "Run",
+    "애플리케이션.FromFuture.executor": "Run",
+    "애플리케이션.FromIterable.executor": "Run",
+    "애플리케이션.GroupBy.executor": "Run",
+    "애플리케이션.Interval.executor": "Run",
+    "애플리케이션.Map.executor": "Run",
+    "애플리케이션.Merge.executor": "Run",
+    "애플리케이션.Range.executor": "Run",
+    "애플리케이션.SwitchMap.executor": "Run",
+    "애플리케이션.Take.executor": "Run",
+    "애플리케이션.TakeUntil.executor": "Run",
+    "애플리케이션.Timer.executor": "Run",
+    "애플리케이션.ToList.executor": "Run",
+    "애플리케이션.ToMap.executor": "Run",
+    "애플리케이션.Zip.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.study.rxjava.operator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.CombineLatest">
+    <configuration name="CombineLatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.rxjava.combine.CombineLatest" />
+      <module name="rxjava1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.rxjava.combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.rxjava.combine.Concat" />
+      <module name="rxjava1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.rxjava.combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.rxjava.combine.Merge" />
+      <module name="rxjava1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.rxjava.combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.rxjava.transform.ToMap" />
+      <module name="rxjava1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.rxjava.transform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.rxjava.combine.Zip" />
+      <module name="rxjava1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.rxjava.combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.CombineLatest" />
+        <item itemvalue="애플리케이션.Zip" />
+        <item itemvalue="애플리케이션.Concat" />
+        <item itemvalue="애플리케이션.Merge" />
+        <item itemvalue="애플리케이션.ToMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="b1a4d292-b081-4fc8-9de3-a299430baa5b" name="변경" comment="" />
+      <created>1755522639699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755522639699</updated>
+      <workItem from="1755522641154" duration="2224000" />
+      <workItem from="1756214036449" duration="18256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

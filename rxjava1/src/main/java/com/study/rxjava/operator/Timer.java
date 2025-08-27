@@ -15,9 +15,9 @@ public class Timer {
         // 특정 시간을 대기한 후에 다음 처리를 하고자 할 때 사용한다.
         Logger.log(LogType.PRINT, "# start !");
         Observable<String> observable = Observable.timer(2000, TimeUnit.MILLISECONDS)
-                .map(count -> "Do work!");
+                .map(count -> "Do work!" + count);
         observable.subscribe(data -> Logger.log(LogType.ON_NEXT, data));
 
-        TimeUtil.sleep(3000);
+        TimeUtil.sleep(8000);
     }
 }

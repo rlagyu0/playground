@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Filter {
-    record Car(String brand, String name) {
+    public record Car(String brand, String name) {
         public String getBrand() {
             return brand;
         }
