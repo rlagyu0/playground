@@ -32,8 +32,7 @@ public class FlatMap {
          * onNext() | main | 00:35:48.084 | bye , 안드로이드
          */
         Observable.just("hello", "bye")
-                .flatMap(hello -> Observable.just("자바", "파이썬", "안드로이드")
-                .map(lang -> hello + " , " + lang))
+                .flatMap(hello -> Observable.just("자바", "파이썬", "안드로이드").map(lang -> hello + " , " + lang))
                 .subscribe(data -> Logger.log(LogType.ON_NEXT, data.toString()));
 
         // step 1 => 그럼 구구단도 출력이 가능해 -> 6단까지만 출력하시오
