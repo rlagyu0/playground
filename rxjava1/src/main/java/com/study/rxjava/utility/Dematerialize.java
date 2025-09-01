@@ -16,7 +16,7 @@ public class Dematerialize {
                                                                                         .materialize()
                                                                                         .map(stringNotification -> {
                                                                                             if(stringNotification.isOnError()) {
-                                                                                                Logger.log(LogType.ON_ERROR, "에러 발생!!!!!!");
+                                                                                                Logger.log(LogType.ON_ERROR, "?에러 발생!!!!!!");
                                                                                             }
                                                                                             return stringNotification;
                                                                                         })
