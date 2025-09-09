@@ -11,7 +11,7 @@ public class AssertNoValuesTest {
     @Test
     public void assertNoValuesTest() {
         Observable.interval(200L, TimeUnit.MILLISECONDS)
-                .doOnNext(data -> Logger.log(LogType.DO_ON_NEXT, + data))
+                .doOnNext(data -> Logger.log(LogType.DO_ON_NEXT, data))
                 .filter(data -> data > 5)
                 .test()
                 .awaitDone(100L, TimeUnit.MILLISECONDS)
