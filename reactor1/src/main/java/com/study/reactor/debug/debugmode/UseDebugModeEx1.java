@@ -1,4 +1,4 @@
-package com.study.reactor.debug;
+package com.study.reactor.debug.debugmode;
 
 import com.study.reactor.util.Logger;
 import reactor.core.publisher.Flux;
